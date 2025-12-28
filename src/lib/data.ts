@@ -64,12 +64,12 @@ export const PROJECTS: Project[] = [
     githubUrl: "#",
   },
   {
-    title: "toppertool.com",
+    title: "topperstool.com",
     description: "An online platform to help students prepare for competitive exams with practice tests and performance analytics.",
     tags: ["EdTech", "Next.js", "Firebase", "Tailwind CSS"],
     image: "https://picsum.photos/seed/toppertool/600/400",
     imageHint: "online learning platform",
-    liveUrl: "https://toppertool.com",
+    liveUrl: "https://topperstool.com",
     githubUrl: "#",
   },
 ];
